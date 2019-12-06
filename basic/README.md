@@ -14,6 +14,6 @@
 ### Routes
 1. Get `/` --> Get home page details
 2. Post `/` --> Post home page details
-3. Get `/query` --> Get data based on query string
+3. Get `/query?name=abc&age=1` --> Get data based on query string
 4. Get `/path/:name/:age` --> Get data based on path parameters
 5. Post `/body` --> Post data with body 
