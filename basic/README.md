@@ -6,7 +6,7 @@
 3. [Install Glide](https://github.com/Masterminds/glide)
 
 ### Getting started
-1. Clone repo under `$GOPATH/src/test`. If `test` directory does not exist than first create it. Then run `git clone `
+1. Clone repo under `$GOPATH/src/test`. If `test` directory does not exist than first create it. Then run `git clone https://github.com/AneriShah2610/gin-gonic.git`
 2. Run `glide install`
 3. Run `go run main.go` 
 4. Open any testing tool like postman or any other to hit query on host: `http://localhost:8080`
