@@ -1,0 +1,11 @@
+package: test/gin-gonic/todo_service
+import:
+- package: github.com/gin-gonic/gin
+  version: v1.5.0
+- package: gopkg.in/go-playground/validator.v9
+  version: v10.0.1
+- package: github.com/joho/godotenv
+  version: v1.3.0
+- package: github.com/Netflix/go-env
+- package: github.com/lib/pq
+  version: v1.2.0
