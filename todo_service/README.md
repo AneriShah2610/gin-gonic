@@ -1,4 +1,4 @@
-# Todo list service
+# Todo list service(REST service)
 ~  basic functionality for todo list
 
 ### PreRequired steps:
